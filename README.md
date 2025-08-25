@@ -40,7 +40,7 @@ Face-Attendance-System/
 
 ⚙️ Installation
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/face-attendance-system.git
+git clone https://(https://github.com/VishakhaMandil/Face-Recognition-Attendance-System)
 cd face-attendance-system
 
 2️⃣ Create a virtual environment
