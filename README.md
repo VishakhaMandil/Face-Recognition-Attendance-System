@@ -119,8 +119,5 @@ joblib
 
 ✅ Build an Admin Dashboard with charts.
 
-👩‍💻 Author(Vishakha Mandil)
-
-
-Developed by Your Name
- 🚀
+👩‍💻 Author
+Developed by VISHAKHA MANDIL 🚀
